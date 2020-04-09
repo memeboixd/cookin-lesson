@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cookin-lesson/static/css/main.9e471ba5.chunk.css",
+    "main.js": "/cookin-lesson/static/js/main.f8d4b5fa.chunk.js",
+    "main.js.map": "/cookin-lesson/static/js/main.f8d4b5fa.chunk.js.map",
+    "runtime-main.js": "/cookin-lesson/static/js/runtime-main.41e8ac56.js",
+    "runtime-main.js.map": "/cookin-lesson/static/js/runtime-main.41e8ac56.js.map",
+    "static/js/2.d35c647e.chunk.js": "/cookin-lesson/static/js/2.d35c647e.chunk.js",
+    "static/js/2.d35c647e.chunk.js.map": "/cookin-lesson/static/js/2.d35c647e.chunk.js.map",
+    "index.html": "/cookin-lesson/index.html",
+    "precache-manifest.90a8d6dddcce1c8dc5e16cff3a93d627.js": "/cookin-lesson/precache-manifest.90a8d6dddcce1c8dc5e16cff3a93d627.js",
+    "service-worker.js": "/cookin-lesson/service-worker.js",
+    "static/css/main.9e471ba5.chunk.css.map": "/cookin-lesson/static/css/main.9e471ba5.chunk.css.map",
+    "static/js/2.d35c647e.chunk.js.LICENSE.txt": "/cookin-lesson/static/js/2.d35c647e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cookin-lesson/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41e8ac56.js",
+    "static/js/2.d35c647e.chunk.js",
+    "static/css/main.9e471ba5.chunk.css",
+    "static/js/main.f8d4b5fa.chunk.js"
+  ]
+}
